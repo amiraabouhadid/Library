@@ -14,15 +14,6 @@ A local library website was built using Javascript, HTML, and CSS. The user can 
 
 ## Getting Started
 To get a local copy up and running follow these simple example steps:
-- Clone the repository as indicated by Setup section below
-
-### Prerequisites
-- GitHub
-- Git
-
-
-### Setup
-Clone repository from github to your local drive by following these steps:
 - Open Terminal.
 - Change the current working directory to the location you want the cloned directory.
 - Enter the following:
@@ -31,7 +22,13 @@ $ git clone git@github.com:amiraabouhadid/Library.git.
 
 ```
 - Press Enter to create your local clone.
+- run ```cd Library```
+- now you an open the project with any code editor and go live or simply open the index.html page with the browser.
 
+
+### Prerequisites
+- GitHub
+- Git
 
 ## AUTHORS
 
