@@ -43,9 +43,9 @@ $ git clone git@github.com:amiraabouhadid/Library.git.
 
 **Shaher Shamrookh**
 
-- GitHub: [@amiraabouhadid](https://github.com/amiraabouhadid)
-- Twitter: [@AbouhadidAmira](https://twitter.com/AbouhadidAmira)
-- LinkedIn: [amira-abouhadid](https://www.linkedin.com/in/amira-abouhadid/)
+- GitHub: [@amiraabouhadid](https://github.com/Shaher-11)
+- Twitter: [@AbouhadidAmira](https://twitter.com/shahershamroukh)
+- LinkedIn: [amira-abouhadid](https://www.linkedin.com/in/shahershamroukh)
 
 
 
