@@ -1,10 +1,11 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # JAVASCRIPT PROJECT: LIBRARY
+A local library website was built using Javascript, HTML, and CSS. The user can add a new book by entering its title, author, its number of pages, and whether he/she has read it or not. The book can be removed from the library using the remove button. The status of whether the book has been read by the user can be changed from true to false or vice versa.
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://amiraabouhadid.github.io/Library/)
 
 ## Built With
 - HTML5
